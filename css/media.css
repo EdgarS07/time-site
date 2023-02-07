@@ -1,0 +1,72 @@
+@media(max-width: 700px) {
+    .year {
+        font-size: 150px;
+    }
+}
+
+
+@media(max-width: 630px) {
+	.title {
+		font-size: 35px;
+	}
+
+	.lds-heart {
+		height: 76px;
+		width: 76px;
+	}
+
+	/* .year {
+		display: none;
+	} */
+
+	.countdown {
+		align-items: center;
+	}
+
+	.time {
+		margin: 10px;
+	}
+
+	.time h2 {
+		font-size: 32px;
+		margin: 0;
+	}
+
+	.time small {
+		font-size: 16px;
+	}
+}
+
+
+
+@media (max-width: 500px) {
+	.title {
+		font-size: 35px;
+	}
+
+	/* .year {
+		display: none;
+	} */
+
+	.year {
+	font-size: 90px;
+	
+}
+
+	.countdown {
+		align-items: center;
+	}
+
+	.time {
+		margin: 10px;
+	}
+
+	.time h2 {
+		font-size: 32px;
+		margin: 0;
+	}
+
+	.time small {
+		font-size: 16px;
+	}
+}
